@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models/survivors/mechanic/bot_eye_lights.vtf"
+$surfaceprop computer
+$selfillum 1
+}
