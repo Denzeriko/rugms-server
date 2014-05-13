@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\miku\tech_small"
+	"$bumpmap" "models\captainbigbutt\vocaloid\miku\normal"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\miku\basewarp"
+
+	"$phong" "1"
+	"$phongboost"	"8"
+	"$phongexponent" "12"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
