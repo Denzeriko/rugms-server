@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "The_Sniper_9/DoctorWho/Daleks/DalekDetailSec"
+	"$bumpmap" "The_Sniper_9/DoctorWho/Daleks/DalekDetail_NRM"
+	"$phong" "1"
+	"$phongboost"   "1"
+	"$phongfresnelranges"	"[0.4 1 2]"
+	"$phongexponent"	"5"
+	"$surfaceprop" "Metal"
+}
