@@ -1,1 +1,1 @@
-fastdl for s1.rugms.ru servers
+fastdl for rugms.ru servers
